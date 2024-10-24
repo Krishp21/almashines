@@ -1,8 +1,44 @@
-# React + Vite
+# Almashines Assignment Task
+This repository contains the solution for the assignment task given by Almashines. The project is built using React and Vite with some additional configurations like ESLint rules and TailwindCSS for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Setup
+Prerequisites:
+Node.js
 
-Currently, two official plugins are available:
+npm or yarn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Clone the repository:
+```
+git clone https://github.com/Krishp21/almashines.git
+```
+
+Navigate to the project folder:
+```
+cd almashines
+
+```
+
+Install dependencies:
+```
+npm install
+```
+## Running the Application
+Start the development server:
+
+```
+npm run dev
+```
+The app will be available at http://localhost:3000.
+
+## Features
+React + Vite setup
+
+TailwindCSS for styling
+
+ESLint for code linting
+
+## Folder Structure
+/src: Contains the main application code.
+
+/public: Static assets for the project.
